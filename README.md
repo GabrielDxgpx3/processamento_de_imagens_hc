@@ -34,7 +34,7 @@ Imgproc.threshold(gray, bw, 190.0, 255.0, Imgproc.THRESH_BINARY);
 ```
 
 ##### Depois de todo pré-processamento, a imagem está pronta para ser utilizada no reconhecimento de círculos.
-### Utilização algortimo Hougcircles implementado no OpenCV
+### Utilização algoritmo Hougcircles implementado no OpenCV
 > Documentação oficial: https://docs.opencv.org/4.x/da/d53/tutorial_py_houghcircles.html.
 
 
